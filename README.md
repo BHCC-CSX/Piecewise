@@ -9,6 +9,6 @@ A platformer programmed in C# with Unity
 
 ### C#
 
-IDEs for C#: [Visual Studio](https://visualstudio.microsoft.com/vs/community/) (install the Unity package) or [MonoDevelop](https://www.monodevelop.com/)
+IDEs for C#: [Visual Studio](https://visualstudio.microsoft.com/vs/community/) (also install the Unity package after installing Visual Studio) or [MonoDevelop](https://www.monodevelop.com/download/)
 
 Free C# resources: [C# Programming Yellow Book](http://www.csharpcourse.com/). [C# Notes for Professionals](https://goalkicker.com/CSharpBook/)
